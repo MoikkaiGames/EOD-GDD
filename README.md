@@ -1,3 +1,3 @@
-# [Embers of Darkness - Game Design Document](/gdd.md)
+# Embers of Darkness - Game Design Document
 
-This repository contains the game design document for [EOD](https://github.com/MoikkaiGames/EOD)
+This repository contains the [game design document](/gdd.md) for [EOD](https://github.com/MoikkaiGames/EOD)
