@@ -1,6 +1,10 @@
 # Table of Contents
 
 1. [Executive Summary](#executive-summary)
+    * [High Concept](#high-concept)
+    * [Demographics](#demographics)
+    * [Overview](#overview)
+    * [Unique Selling Points](#unique-selling-points)
 
 
 # Executive Summary
@@ -24,7 +28,7 @@ The player assumes the role of a warrior who has lost his memories and is on a q
 
 Players will experience the game from a 3rd person perspective which is required for the game's combat system to be engaging. A player will be able to attack, dodge, and block enemy attacks in real time. Player skill will be a deciding factor in determining the outcome of a combat. 
 
-## Unique Selling Point
+## Unique Selling Points
 
 ### Combat System
 The combat system of EOD will be designed to reward player skill. The better a player performs, the better reward a player will reap. It's the constant desire of a player to perform better at the combat that will keep them hooked.
