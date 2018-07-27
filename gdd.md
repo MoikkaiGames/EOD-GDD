@@ -5,6 +5,23 @@
     * [Demographics](#demographics)
     * [Overview](#overview)
     * [Unique Selling Points](#unique-selling-points)
+2. [Gameplay Summary](#gameplay-summary)
+3. [Controls](#controls)
+4. [Game Design](#game-design)
+5. [Plot](#plot)
+6. [Weapon System](#weapon-system)
+7. [Vocations](#vocations)
+8. [Combat](#combat)
+9. [Inventory System](#inventory-system)
+10. [AI Design](#ai-design)
+11. [Story Development and Progression](#story-development-and-progression)
+12. [Character Development and Progression](#character-development-and-progression)
+13. [Levels/Maps](#levels/maps)
+14. [User Interface](#user-interface)
+15. [Save/Load System](#save/load-system)
+16. [Technical Details](#technical-details)
+17. [Multiplayer Modes](#multiplayer-modes)
+18. [Sound/Music](#sound/music)
 
 
 # Executive Summary
@@ -38,3 +55,43 @@ EOD's world is meant to make the player feel small and weak. The monsters are su
 
 ### Sparing your foes
 It is not necessary for the player to eliminate their enemies. The player can choose the pacifist route if they so desire
+
+# Gameplay Summary
+
+## Inspiration
+The game draws it's inpsiration RPGs like Dark Souls and Undertale which encourage exploration and interaction with the game world.
+
+## Vocations and Weapons
+@todo
+
+# Controls
+
+# Game Design
+
+# Plot
+
+# Weapon System
+
+# Vocations
+
+# Combat
+
+# Inventory System
+
+# AI Design
+
+# Story Development and Progression
+
+# Character Development and Progression
+
+# Levels/Maps
+
+# User Interface
+
+# Save/Load System
+
+# Technical Details
+
+# Multiplayer Modes
+
+# Sound/Music
