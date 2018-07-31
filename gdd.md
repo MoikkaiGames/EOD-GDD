@@ -31,11 +31,11 @@ A warrior is on a quest to regain his memories and uncovering the secrets of Ren
 
 ## Demographics
 
-**Target Audience** :  RaiderZ fans, fans of action combat RPG, 14+
-**Game Style** : Action Combat RPG
-**Theme** : Ancient Medieval, Exploration, Monster Hunting
-**Platform** : PC
-**Players** : 1 (Single player campaign), upto 4 (Multiplayer co-op mode)
+**Target Audience** :  RaiderZ fans, fans of action combat RPG, 14+  
+**Game Style** : Action Combat RPG  
+**Theme** : Ancient Medieval, Exploration, Monster Hunting  
+**Platform** : PC  
+**Players** : 1 (Single player campaign), upto 4 (Multiplayer co-op mode)  
 
 ## Overview
 
